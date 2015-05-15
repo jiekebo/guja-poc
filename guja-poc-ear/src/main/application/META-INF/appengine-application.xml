@@ -22,5 +22,5 @@
   -->
 
 <appengine-application xmlns="http://appengine.google.com/ns/1.0">
-  <application>guja-be</application>
+  <application>guja-poc</application>
 </appengine-application>
